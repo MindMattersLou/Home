@@ -8,3 +8,5 @@ The current concept is that this will be a weekly reading group. Topics will be 
 That's all right now. Of course, there are a ton of possibilities but we want to keep it focused before we consider broadening the group.
 
 This group will always be public (otherwise someone would have to pay for it!) so no official membership is necessary. If you are interested in contributing directly from the org, email nicholas.searcy@gmail.com (currently maintaining the org) with your github handle and you will be added.
+
+For more information check out the [wiki](https://github.com/MindMattersLou/mindmatterslou.github.com/wiki)
